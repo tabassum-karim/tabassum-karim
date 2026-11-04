@@ -1,6 +1,8 @@
 #<p align="center">
   <img src="banner.png" width="100%" alt="Profile Banner">
-</p># Hi there 👋
+</p>  <h3>Languages & Technologies</h3>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java" /># Hi there 👋
 
 <!--
 **tabassum-karim/tabassum-karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
