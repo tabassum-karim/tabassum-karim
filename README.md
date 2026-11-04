@@ -1,4 +1,6 @@
-## Hi there 👋
+#<p align="center">
+  <img src="banner.png" width="100%" alt="Profile Banner">
+</p># Hi there 👋
 
 <!--
 **tabassum-karim/tabassum-karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
