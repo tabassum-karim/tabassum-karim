@@ -3,6 +3,11 @@
 </p>  <h3>Languages & Technologies</h3>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+### About Me
+
+Computer Science & Engineering undergraduate at North South University.
+
+Curious about interactive systems, real-time graphics, and the technology behind virtual worlds.
 
 <!--
 **tabassum-karim/tabassum-karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
